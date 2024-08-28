@@ -8,7 +8,7 @@ packages:
   gitUsername: santhu736852
   gitBranch: main
 services:
-- serviceName: project.gitfeaturetest.integrations:Test6Flow
+- serviceName: project.gitfeaturetest.integrations:Test7Flow
   packages:
   - name: GitFeatureTestProject
     version: "1.0"
