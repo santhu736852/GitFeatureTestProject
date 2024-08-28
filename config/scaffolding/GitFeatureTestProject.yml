@@ -8,11 +8,11 @@ packages:
   gitUsername: santhu736852
   gitBranch: main
 services:
-- serviceName: project.gitfeaturetest.integrations:Test3Flow
+- serviceName: project.gitfeaturetest.integrations:Test4Flow
   packages:
   - name: GitFeatureTestProject
     version: "1.0"
-- serviceName: pub.math:addInts
+- serviceName: pub.date:getCurrentDate
   packages:
   - name: WmPublic
     version: 11.1.0.0.1973
